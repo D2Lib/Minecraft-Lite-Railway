@@ -1,5 +1,5 @@
 # Minecraft-Lite-Railway
-This is a Forge mod for Minecraft 1.16.5, include some more new minecarts and rails.You can drive your minecart by this mod, instead of using powered rails!
+This is a Fabric mod for Minecraft 1.18.2, include some more new minecarts and rails.You can drive your minecart by this mod, instead of using powered rails!
 ***
 ## Overview
 
